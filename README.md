@@ -17,6 +17,9 @@
 ## Quick Links
 
 - [Documentation](https://mintlify.com/docs)
+  - [API References](https://mintlify.com/docs/api-playground)
+  - [Components](https://mintlify.com/docs/content/components)
+  - [Integrations](https://mintlify.com/docs/integrations)
 - [Service Status](https://status.mintlify.com/)
 - [Community](https://mintlify.com/community)
 
