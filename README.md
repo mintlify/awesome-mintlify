@@ -21,7 +21,7 @@
   - [Components](https://mintlify.com/docs/content/components)
   - [Integrations](https://mintlify.com/docs/integrations)
 - [Service Status](https://status.mintlify.com/)
-- [Community](https://mintlify.com/community)
+- [Starter Kit](https://git.new/docs)
 
 ## Showcase
 
@@ -81,6 +81,7 @@
 - [Mintlify on 𝕏](https://x.com/mintlify)
 - [Mintlify on LinkedIn](https://linkedin.com/company/mintlify)
 - [Mintlify on Product Hunt](https://producthunt.com/products/mintlify)
+- [Mintlify on Slack](https://mintlify.com/community)
 
 ---
 
