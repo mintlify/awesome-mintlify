@@ -43,6 +43,7 @@
 - [Edgee](https://docs.edgee.cloud/)
 - [Intuned](https://docs.intunedhq.com/)
 - [Mazen Finance](https://docs.mazen.finance)
+- [Octomind](https://octomind.dev/docs)
 - [Oneloop](https://docs.oneloop.ai/)
 
 ## Talks
