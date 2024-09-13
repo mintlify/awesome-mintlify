@@ -1,6 +1,7 @@
 # awesome-mintlify
 
-> A curated list of awesome things related to Mintlify, inspired by [awesome.re](http://awesome.re/)
+> A curated list of things related to Mintlify, inspired by [awesome.re](http://awesome.re/)
+> Want to contribute? Awesome! See here: [CONTRIBUTING.md](/contributing.md)
 
 ## Table of Contents
 
@@ -38,6 +39,7 @@
 ## Community Showcase
 
 > Docs powered by Mintlify — [Join the community!](https://mintlify.com/community)
+> Want to contribute? Awesome! See here: [CONTRIBUTING.md](/contributing.md)
 
 - [Dripos](https://support.dripos.com/)
 - [Edgee](https://docs.edgee.cloud/)
@@ -53,6 +55,8 @@
 
 ## Community Talks
 
+> Want to contribute? Awesome! See here: [CONTRIBUTING.md](/contributing.md)
+
 - [Create documentation for developer tools with Mintlify](https://www.youtube.com/watch?v=hFlZJzY2HNM) by [Jamie Barton](https://www.linkedin.com/in/notrab/)
 
 ## Blog Posts
@@ -67,6 +71,8 @@
 - [How Stripe creates the best documentation in the industry](https://mintlify.com/blog/stripe-docs)
 
 ## Community Blog Posts
+
+> Want to contribute? Awesome! See here: [CONTRIBUTING.md](/contributing.md)
 
 - [Improving Loops' API docs](https://loops.so/docs/guides/how-we-work-documentation) by [Dan Rowden](https://x.com/dr)
 - [Keeping up with Mintlify's AI Chat](https://dev.to/danielsgriffin/keeping-up-with-mintlifys-ai-chat-5a0m) by [Daniel Griffin](https://x.com/danielsgriffin)
