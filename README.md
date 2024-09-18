@@ -49,6 +49,7 @@
 - [Mazen Finance](https://docs.mazen.finance)
 - [Octomind](https://octomind.dev/docs)
 - [Oneloop](https://docs.oneloop.ai/)
+- [QA.tech](https://qatech.mintlify.app/)
 
 ## Talks
 
