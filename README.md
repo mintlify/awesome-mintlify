@@ -54,6 +54,7 @@
 ## Talks
 
 - [Talking documentation with Han](https://www.youtube.com/watch?v=JaMVGUlT3yI) on [Scaling DevTools](https://scalingdevtools.com/)
+- [Beautiful docs with Han](https://www.youtube.com/watch?v=vGPpaTpTOdA) on [The Highlight Podcast](https://www.youtube.com/@highlight-io/podcasts)
 - [Documentation with Hahnbee](https://www.youtube.com/watch?v=QVwNqNgLRUw)
 
 ## Community Talks
