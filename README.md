@@ -98,6 +98,7 @@
 - [Mintlify on 𝕏](https://x.com/mintlify)
 - [Mintlify on LinkedIn](https://linkedin.com/company/mintlify)
 - [Mintlify on Product Hunt](https://producthunt.com/products/mintlify)
+- [Mintlify on Ray.so](https://ray.so/mintlify)
 - [Mintlify on Slack](https://mintlify.com/community)
 
 ---
