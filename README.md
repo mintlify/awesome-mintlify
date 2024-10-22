@@ -39,6 +39,7 @@
 - [Loops optimizes its API docs with Mintlify](https://mintlify.com/customers/loops)
 - [Perplexity leverages Mintlify for interactive documentation](https://mintlify.com/customers/perplexity)
 - [Pinecone unifies their support ecosystem with Mintlify Docs](https://mintlify.com/customers/pinecone)
+- [Plain migrated from Docusaurus to Mintlify](https://mintlify.com/customers/plain)
 - [Resend partnered with Mintlify to create world-class documentation](https://mintlify.com/customers/resend)
 - [Scale AI uses Mintlify for interactive API documentation](https://mintlify.com/customers/scale)
 
