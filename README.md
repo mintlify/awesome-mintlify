@@ -1,7 +1,6 @@
 # awesome-mintlify
 
-> A curated list of things related to Mintlify, inspired by [awesome.re](http://awesome.re/)
-
+> A curated list of things related to Mintlify, inspired by [awesome.re](http://awesome.re/) <br/>
 > Want to contribute? Awesome! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## Table of Contents
@@ -29,25 +28,40 @@
 
 > Originally published on [mintlify.com/customers](https://mintlify.com/customers)
 
+### Artificial Intelligence
+
 - [Anthropic uses Mintlify to provide a great developer experience](https://go.mintlify.com/customers/anthropic)
 - [Cursor leverages Mintlify to simplify documentation management](https://go.mintlify.com/customers/cursor)
-- [Dub scales support for 50,000+ customers with Mintlify](https://go.mintlify.com/customers/dub)
 - [ElevenLabs uses Mintlify to simplify developer onboarding](https://go.mintlify.com/customers/elevenlabs)
-- [Fidelity uses Mintlify to elevate financial documentation](https://go.mintlify.com/customers/fidelity-investment)
-- [Flatfile upgrades their developer experience with Mintlify](https://go.mintlify.com/customers/flatfile)
-- [Frigade provides a world-class developer experience with Mintlify](https://go.mintlify.com/customers/frigade)
-- [Goody partnered with Mintlify to create Stripe-level documentation](https://go.mintlify.com/customers/goody)
-- [Loops optimizes its API docs with Mintlify](https://go.mintlify.com/customers/loops)
 - [Perplexity leverages Mintlify for interactive documentation](https://go.mintlify.com/customers/perplexity)
 - [Pinecone unifies their support ecosystem with Mintlify Docs](https://go.mintlify.com/customers/pinecone)
-- [Plain migrated from Docusaurus to Mintlify](https://go.mintlify.com/customers/plain)
-- [Resend partnered with Mintlify to create world-class documentation](https://go.mintlify.com/customers/resend)
 - [Scale AI uses Mintlify for interactive API documentation](https://go.mintlify.com/customers/scale)
+
+### Developer Tools
+
+- [Flatfile upgrades their developer experience with Mintlify](https://go.mintlify.com/customers/flatfile)
+- [Frigade provides a world-class developer experience with Mintlify](https://go.mintlify.com/customers/frigade)
+- [Resend partnered with Mintlify to create world-class documentation](https://go.mintlify.com/customers/resend)
+
+### SaaS
+
+- [Dub scales support for 50,000+ customers with Mintlify](https://go.mintlify.com/customers/dub)
+- [Loops optimizes its API docs with Mintlify](https://go.mintlify.com/customers/loops)
+- [Plain migrated from Docusaurus to Mintlify](https://go.mintlify.com/customers/plain)
+
+### Consumer
+
+- [Goody partnered with Mintlify to create Stripe-level documentation](https://go.mintlify.com/customers/goody)
+
+### Fintech
+
+- [Fidelity uses Mintlify to elevate financial documentation](https://go.mintlify.com/customers/fidelity-investment)
+
+[↑ Back to Top](#awesome-mintlify)
 
 ## Community Showcase
 
-> Docs powered by Mintlify — [Join the community!](https://mintlify.com/community)
-
+> Docs powered by Mintlify — [Join the community!](https://mintlify.com/community) <br/>
 > Want to contribute? Awesome! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 - [Dripos](https://support.dripos.com/)
@@ -59,17 +73,23 @@
 - [QA.tech](https://qatech.mintlify.app/)
 - [Storia Sage](https://sage-docs.storia.ai)
 
+[↑ Back to Top](#awesome-mintlify)
+
 ## Talks
 
 - [Talking documentation with Han](https://www.youtube.com/watch?v=JaMVGUlT3yI) on [Scaling DevTools](https://scalingdevtools.com/)
 - [Beautiful docs with Han](https://www.youtube.com/watch?v=vGPpaTpTOdA) on [The Highlight Podcast](https://www.youtube.com/@highlight-io/podcasts)
 - [Documentation with Hahnbee](https://www.youtube.com/watch?v=QVwNqNgLRUw)
 
+[↑ Back to Top](#awesome-mintlify)
+
 ## Community Talks
 
 > Want to contribute? Awesome! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 - [Create documentation for developer tools with Mintlify](https://www.youtube.com/watch?v=hFlZJzY2HNM) by [Jamie Barton](https://www.linkedin.com/in/notrab/)
+
+[↑ Back to Top](#awesome-mintlify)
 
 ## Blog Posts
 
@@ -80,7 +100,9 @@
   - [Hahnbee's take on Mintlify's journey through YC](https://mintlify.com/blog/hahnbee-applying-to-yc)
 - [How we design at Mintlify](https://mintlify.com/blog/how-we-design-at-mintlify)
 - [Design matters: Mintlify's dashboard glow-up](https://mintlify.com/blog/design-matters)
-- [How Stripe creates the best documentation in the industry](https://mintlify.com/blog/stripe-docs)
+- [How Stripe creates the best documentation in the industry](https://go.mintlify.com/blog/stripe-docs)
+
+[↑ Back to Top](#awesome-mintlify)
 
 ## Community Blog Posts
 
@@ -88,6 +110,8 @@
 
 - [Improving Loops' API docs](https://loops.so/docs/guides/how-we-work-documentation) by [Dan Rowden](https://x.com/dr)
 - [Keeping up with Mintlify's AI Chat](https://dev.to/danielsgriffin/keeping-up-with-mintlifys-ai-chat-5a0m) by [Daniel Griffin](https://x.com/danielsgriffin)
+
+[↑ Back to Top](#awesome-mintlify)
 
 ## Launch Weeks
 
