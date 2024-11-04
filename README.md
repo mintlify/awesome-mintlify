@@ -29,19 +29,20 @@
 
 > Originally published on [mintlify.com/customers](https://mintlify.com/customers)
 
-- [Anthropic uses Mintlify to provide a great developer experience](https://mintlify.com/customers/anthropic)
-- [Cursor leverages Mintlify to simplify documentation management](https://mintlify.com/customers/cursor)
-- [Dub scales support for 50,000+ customers with Mintlify](https://mintlify.com/customers/dub)
-- [ElevenLabs uses Mintlify to simplify developer onboarding](https://mintlify.com/customers/elevenlabs)
-- [Fidelity uses Mintlify to elevate financial documentation](https://mintlify.com/customers/fidelity-investment)
-- [Flatfile upgrades their developer experience with Mintlify](https://mintlify.com/customers/flatfile)
-- [Goody partnered with Mintlify to create Stripe-level documentation](https://mintlify.com/customers/goody)
-- [Loops optimizes its API docs with Mintlify](https://mintlify.com/customers/loops)
-- [Perplexity leverages Mintlify for interactive documentation](https://mintlify.com/customers/perplexity)
-- [Pinecone unifies their support ecosystem with Mintlify Docs](https://mintlify.com/customers/pinecone)
-- [Plain migrated from Docusaurus to Mintlify](https://mintlify.com/customers/plain)
-- [Resend partnered with Mintlify to create world-class documentation](https://mintlify.com/customers/resend)
-- [Scale AI uses Mintlify for interactive API documentation](https://mintlify.com/customers/scale)
+- [Anthropic uses Mintlify to provide a great developer experience](https://go.mintlify.com/customers/anthropic)
+- [Cursor leverages Mintlify to simplify documentation management](https://go.mintlify.com/customers/cursor)
+- [Dub scales support for 50,000+ customers with Mintlify](https://go.mintlify.com/customers/dub)
+- [ElevenLabs uses Mintlify to simplify developer onboarding](https://go.mintlify.com/customers/elevenlabs)
+- [Fidelity uses Mintlify to elevate financial documentation](https://go.mintlify.com/customers/fidelity-investment)
+- [Flatfile upgrades their developer experience with Mintlify](https://go.mintlify.com/customers/flatfile)
+- [Frigade provides a world-class developer experience with Mintlify](https://go.mintlify.com/customers/frigade)
+- [Goody partnered with Mintlify to create Stripe-level documentation](https://go.mintlify.com/customers/goody)
+- [Loops optimizes its API docs with Mintlify](https://go.mintlify.com/customers/loops)
+- [Perplexity leverages Mintlify for interactive documentation](https://go.mintlify.com/customers/perplexity)
+- [Pinecone unifies their support ecosystem with Mintlify Docs](https://go.mintlify.com/customers/pinecone)
+- [Plain migrated from Docusaurus to Mintlify](https://go.mintlify.com/customers/plain)
+- [Resend partnered with Mintlify to create world-class documentation](https://go.mintlify.com/customers/resend)
+- [Scale AI uses Mintlify for interactive API documentation](https://go.mintlify.com/customers/scale)
 
 ## Community Showcase
 
