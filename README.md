@@ -70,7 +70,7 @@
 - [Mazen Finance](https://docs.mazen.finance)
 - [Octomind](https://octomind.dev/docs)
 - [Oneloop](https://docs.oneloop.ai/)
-- [QA.tech](https://qatech.mintlify.app/)
+- [QA.tech](https://docs.qa.tech/)
 - [Storia Sage](https://sage-docs.storia.ai)
 
 [↑ Back to Top](#awesome-mintlify)
