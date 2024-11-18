@@ -42,6 +42,7 @@
 - [Flatfile upgrades their developer experience with Mintlify](https://go.mintlify.com/customers/flatfile)
 - [Frigade provides a world-class developer experience with Mintlify](https://go.mintlify.com/customers/frigade)
 - [Resend partnered with Mintlify to create world-class documentation](https://go.mintlify.com/customers/resend)
+- [Turso up-levels its developer experience with Mintlify](https://mintlify.com/customers/turso)
 
 ### SaaS
 
